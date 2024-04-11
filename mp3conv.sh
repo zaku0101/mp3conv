@@ -1,5 +1,5 @@
 #!/bin/sh
 
-source ".venv/bin/activate"
+"${HOME}/.venv/bin/activate"
 
 python3 converter_mp3.py
