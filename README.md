@@ -6,7 +6,7 @@ Python script converting yt link to mp3 file
 
 Download required dependecies:
 ```bash
-  python install -r requirements.txt
+  pip install -r requirements.txt
 ```
 Then run script using: 
 ```bash
